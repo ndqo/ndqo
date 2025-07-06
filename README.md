@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  [<img src="https://api.victims.lol/api/discord-arts/profile-image/1222698022727581737">](https://api.victims.bio/discord/user/discord-arts/1140294162424545320/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true)
+   <img src="https://api.victims.bio/discord/user/discord-arts/1140294162424545320/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true">
 </div>
 
 ###
