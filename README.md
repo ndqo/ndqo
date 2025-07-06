@@ -1,4 +1,4 @@
-<h2 align="left">Hello! hymaro is here!</h2>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F70C&width=435&lines=Hymaro's+here+%3AP)](https://git.io/typing-svg)
 
 ###
 
@@ -16,10 +16,10 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/hymaro.lol" target="_blank">
+  <a href="https://instagram.com/hymaroo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="ndqo" target="_blank">
+  <a href="lvph" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="hymarodev@gmail.com" target="_blank">
